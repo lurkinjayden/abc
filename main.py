@@ -16,7 +16,7 @@ import time
 from datetime import datetime, timedelta
 
 
-TOKEN = "MTIwMDExMDQ2MjQ4Mjc4MDE5MA.GbwCuL.TiaLEdonVobjvp-ZWCPdvC_qRE_Y0pc5O76ZpE"
+TOKEN = "MTIwMDExMDQ2MjQ4Mjc4MDE5MA.GyHJGb.C4zE_5qepi7VgBea4VeVOrQW1W7mW687ARoMDs"
 
 one_victim = None
 seven_victim = None
